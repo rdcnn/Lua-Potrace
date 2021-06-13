@@ -8,4 +8,4 @@ Using [Bitmap](https://github.com/max1220/lua-bitmap) for bitmap decode.
 
 Licensed under GPL.
 
-Ditsributed without any waranty.
+Ditsributed without any waranty. 
